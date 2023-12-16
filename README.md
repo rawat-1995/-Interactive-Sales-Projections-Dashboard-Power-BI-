@@ -1,4 +1,4 @@
-# -Interactive-Sales-Projections-Dashboard-Power-BI-
+# Interactive Sales Projections Dashboard Power BI
 
 # Embarked on a Data-Driven Journey with SuperStore's Heartbeat 🛒💡
 
